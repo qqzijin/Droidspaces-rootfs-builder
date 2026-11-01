@@ -57,11 +57,11 @@
     "description": "Minimal Debian 13 rootfs with basic packages.",
     "architecture": "aarch64",
     "file": "Debian-13-Minimal",
-    "download_url": "https://github.com/qqzijin/Droidspaces-rootfs-builder/releases/download/v20261025-033725/Debian-13-Minimal-Droidspaces-rootfs-aarch64-20261025-v20261025-033725.tar.xz",
-    "sha256": "5ad63b42f69e67d9c321ac19e5fb2711541b528c310204bd81d432e39da389fc",
-    "size_bytes": 101519276,
-    "version": "v20261025-033725",
-    "build_date": "20261025",
+    "download_url": "https://github.com/qqzijin/Droidspaces-rootfs-builder/releases/download/v20261101-045113/Debian-13-Minimal-Droidspaces-rootfs-aarch64-20261101-v20261101-045113.tar.xz",
+    "sha256": "3675b0b6e49816a01036458f59fd0acf0dc85089201bd28858ce42e2b04501cc",
+    "size_bytes": 101519952,
+    "version": "v20261101-045113",
+    "build_date": "20261101",
     "author": "Droidspaces developers"
   },
   {
